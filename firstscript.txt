@@ -1,1 +1,2 @@
 My first script in git
+solving merge conflicts
